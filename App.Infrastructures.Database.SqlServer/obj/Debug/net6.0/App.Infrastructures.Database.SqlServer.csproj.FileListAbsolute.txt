@@ -1,0 +1,17 @@
+E:\Projects\FinalProject\App.Infrastructures.Database.SqlServer\bin\Debug\net6.0\App.Infrastructures.Database.SqlServer.deps.json
+E:\Projects\FinalProject\App.Infrastructures.Database.SqlServer\bin\Debug\net6.0\App.Infrastructures.Database.SqlServer.runtimeconfig.json
+E:\Projects\FinalProject\App.Infrastructures.Database.SqlServer\bin\Debug\net6.0\App.Infrastructures.Database.SqlServer.dll
+E:\Projects\FinalProject\App.Infrastructures.Database.SqlServer\bin\Debug\net6.0\ref\App.Infrastructures.Database.SqlServer.dll
+E:\Projects\FinalProject\App.Infrastructures.Database.SqlServer\bin\Debug\net6.0\App.Infrastructures.Database.SqlServer.pdb
+E:\Projects\FinalProject\App.Infrastructures.Database.SqlServer\bin\Debug\net6.0\App.Domain.Core.dll
+E:\Projects\FinalProject\App.Infrastructures.Database.SqlServer\bin\Debug\net6.0\App.Domain.Core.pdb
+E:\Projects\FinalProject\App.Infrastructures.Database.SqlServer\obj\Debug\net6.0\App.Infrastructures.Database.SqlServer.csproj.AssemblyReference.cache
+E:\Projects\FinalProject\App.Infrastructures.Database.SqlServer\obj\Debug\net6.0\App.Infrastructures.Database.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\FinalProject\App.Infrastructures.Database.SqlServer\obj\Debug\net6.0\App.Infrastructures.Database.SqlServer.AssemblyInfoInputs.cache
+E:\Projects\FinalProject\App.Infrastructures.Database.SqlServer\obj\Debug\net6.0\App.Infrastructures.Database.SqlServer.AssemblyInfo.cs
+E:\Projects\FinalProject\App.Infrastructures.Database.SqlServer\obj\Debug\net6.0\App.Infrastructures.Database.SqlServer.csproj.CoreCompileInputs.cache
+E:\Projects\FinalProject\App.Infrastructures.Database.SqlServer\obj\Debug\net6.0\App.Infrastructures.Database.SqlServer.csproj.CopyComplete
+E:\Projects\FinalProject\App.Infrastructures.Database.SqlServer\obj\Debug\net6.0\App.Infrastructures.Database.SqlServer.dll
+E:\Projects\FinalProject\App.Infrastructures.Database.SqlServer\obj\Debug\net6.0\ref\App.Infrastructures.Database.SqlServer.dll
+E:\Projects\FinalProject\App.Infrastructures.Database.SqlServer\obj\Debug\net6.0\App.Infrastructures.Database.SqlServer.pdb
+E:\Projects\FinalProject\App.Infrastructures.Database.SqlServer\obj\Debug\net6.0\App.Infrastructures.Database.SqlServer.genruntimeconfig.cache

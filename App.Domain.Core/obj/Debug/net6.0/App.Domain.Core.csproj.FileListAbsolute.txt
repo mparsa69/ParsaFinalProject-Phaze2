@@ -1,0 +1,13 @@
+E:\Projects\FinalProject\App.Domain.Core\bin\Debug\net6.0\App.Domain.Core.deps.json
+E:\Projects\FinalProject\App.Domain.Core\bin\Debug\net6.0\App.Domain.Core.runtimeconfig.json
+E:\Projects\FinalProject\App.Domain.Core\bin\Debug\net6.0\App.Domain.Core.dll
+E:\Projects\FinalProject\App.Domain.Core\bin\Debug\net6.0\ref\App.Domain.Core.dll
+E:\Projects\FinalProject\App.Domain.Core\bin\Debug\net6.0\App.Domain.Core.pdb
+E:\Projects\FinalProject\App.Domain.Core\obj\Debug\net6.0\App.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\FinalProject\App.Domain.Core\obj\Debug\net6.0\App.Domain.Core.AssemblyInfoInputs.cache
+E:\Projects\FinalProject\App.Domain.Core\obj\Debug\net6.0\App.Domain.Core.AssemblyInfo.cs
+E:\Projects\FinalProject\App.Domain.Core\obj\Debug\net6.0\App.Domain.Core.csproj.CoreCompileInputs.cache
+E:\Projects\FinalProject\App.Domain.Core\obj\Debug\net6.0\App.Domain.Core.dll
+E:\Projects\FinalProject\App.Domain.Core\obj\Debug\net6.0\ref\App.Domain.Core.dll
+E:\Projects\FinalProject\App.Domain.Core\obj\Debug\net6.0\App.Domain.Core.pdb
+E:\Projects\FinalProject\App.Domain.Core\obj\Debug\net6.0\App.Domain.Core.genruntimeconfig.cache

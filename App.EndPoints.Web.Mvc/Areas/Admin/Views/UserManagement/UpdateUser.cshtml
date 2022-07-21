@@ -1,0 +1,44 @@
+﻿@using App.EndPoints.Web.Mvc.Areas.Admin.Models.ViewModels.Accounts
+@using Utility
+@model UserManagementVM
+
+<div class="row">
+    <div class="col-md-8">
+        <form  method="post" asp-controller="UserManagement" asp-action="UpdateUser">
+            <input asp-for="Id" class="form-control" value="@Model.Id" hidden="true"/>
+            <h2>ویرایش اطلاعات کاربری</h2>
+            <hr />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            
+            <div class="form-floating py-2 col-12">
+                <input asp-for="@Model.Email" class="form-control" autocomplete="username" aria-required="true" />
+                <label asp-for="@Model.Email"></label>
+                <span asp-validation-for="@Model.Email" class="text-danger"></span>
+            </div>
+
+             <div class="form-floating py-2 col-6">
+                <input asp-for="@Model.FirstName" class="form-control" aria-required="true" />
+                <label asp-for="@Model.FirstName"></label>
+                <span asp-validation-for="@Model.FirstName" class="text-danger"></span>
+            </div>
+
+            <div class="form-floating py-2 col-6">
+                <input asp-for="@Model.LastName" class="form-control" aria-required="true" />
+                <label asp-for="@Model.LastName"></label>
+                <span asp-validation-for="@Model.LastName" class="text-danger"></span>
+            </div>
+            <div class="form-floating py-2 col-6">
+                <input asp-for="@Model.PhoneNumber" class="form-control" aria-required="true" />
+                <label asp-for="@Model.PhoneNumber"></label>
+                <span asp-validation-for="@Model.PhoneNumber" class="text-danger"></span>
+            </div>
+            <button  type="submit" class="w-100 btn btn-lg btn-primary">ویرایش</button>
+        </form>
+    </div>
+
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
